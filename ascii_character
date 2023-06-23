@@ -1,0 +1,3 @@
+for sys_num in range (60000):
+    sym=chr(sys_num)
+    print(sys_num," = ",sym,end="\t")
