@@ -1,3 +1,4 @@
 for sys_num in range (55290):
     sym=chr(sys_num)
     print(sys_num," = ",sym,end="\t")
+
